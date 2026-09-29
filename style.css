@@ -1,0 +1,47 @@
+#nombre {
+    font-size: 5rem;
+    color: black;
+}
+
+#profesion {
+    font-size: 3rem;
+     color: black;
+}
+
+#presentacion {
+    font-size: 1.5rem;
+     color: black;
+}
+
+body {
+    color: #fff;
+    background: #7cd0ec;
+}
+
+.btn-primary {
+    --bs-btn-bg: #2339e4;
+     border-radius: 0 8px 8px 8px;
+
+
+}
+
+#github {
+     --bs-btn-bg: #2339e4;
+     font-size: 1.8rem;
+      border-radius: 0 8px 8px 8px;
+}
+
+.tec {
+    background-color: #2339e4;
+    border-color: #2339e4;
+    border-radius: 8px;
+}
+
+
+.footer {
+    color: black;
+}
+
+#h4 {
+    color: black;
+}

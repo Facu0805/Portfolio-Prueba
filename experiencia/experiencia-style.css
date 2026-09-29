@@ -1,0 +1,25 @@
+body {
+    color: #fff;
+    background: #7cd0ec;
+    
+}
+
+#volver {
+margin-left: 135px;
+}
+
+.imgexp {
+    width: max;
+    height: 500px;
+    border-radius: 0 0 5px 5px;
+}
+
+#proyecto {
+    color: black;
+}
+
+.card-body {
+    background-color: #cdcfd0;
+}
+
+

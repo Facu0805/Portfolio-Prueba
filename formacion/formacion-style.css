@@ -1,0 +1,18 @@
+body {
+    color: #fff;
+    background: #7cd0ec;
+}
+
+.card {
+    background-color: blue;
+    color:antiquewhite;
+    border-radius: 20px;
+}
+
+.card-body {
+    color: #e4ecbb;
+}
+
+#form {
+    color: black;
+}
